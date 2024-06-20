@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "livros",
+    "slug": "livros",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive_icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.marisxzh.livros"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "001f59c3-582c-4160-ac11-e6f8687afd90"
+      }
+    }
+  }
+}
